@@ -17,6 +17,9 @@ A little or a lot
 Why 
 [Why.mp3](https://github.com/user-attachments/files/23127284/Why.mp3)
 
+Memory Check 
+
+
 ## Jamie-specific Audio 
 
 ### Jamie class president 
