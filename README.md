@@ -10,8 +10,10 @@ Likert scale (sureness)
 #### Jamie class president 
 Is Jamie really the class president? 
 [Jamie really class pres_.mp3](https://github.com/user-attachments/files/23125236/Jamie.really.class.pres_.mp3)
+
 You said, Jamie IS the class president. 
 [Jamie is the class president 1.mp3](https://github.com/user-attachments/files/23125380/Jamie.is.the.class.president.1.mp3)
+
 You said, Jamie IS NOT the class president.
 [Jamie is not the class president..mp3](https://github.com/user-attachments/files/23125397/Jamie.is.not.the.class.president.mp3)
 
