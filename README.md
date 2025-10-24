@@ -37,6 +37,10 @@ Students SHOULD listen to Jamie, black shirt
 Students SHOULD NOT listen to Jamie, black shirt 
 [Should not listen to Jamie shirt.mp3](https://github.com/user-attachments/files/23126402/Should.not.listen.to.Jamie.shirt.mp3)
 
+#### Jamie extra 
+Do you like Jamie? 
+[Do you like Jamie 2.mp3](https://github.com/user-attachments/files/23126721/Do.you.like.Jamie.2.mp3)
+
 
 ## Riley-specific Audio 
 
@@ -70,5 +74,10 @@ Students SHOULD listen to Riley, black shirt
 
 Students SHOULD NOT listen to Riley, black shirt 
 [Should not listen to Riley shirt.mp3](https://github.com/user-attachments/files/23126480/Should.not.listen.to.Riley.shirt.mp3)
+
+#### Riley extra 
+
+Do you like Riley? 
+[Do you like Riley 2.mp3](https://github.com/user-attachments/files/23126708/Do.you.like.Riley.2.mp3)
 
 
