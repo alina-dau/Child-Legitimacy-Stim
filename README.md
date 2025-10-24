@@ -1,11 +1,11 @@
 # Child-Legitimacy-Stim
 This respository houses the child legitimacy DV audio recordings and DV visual stimuli. 
 
-### All audio
+## All audio
 Likert scale (sureness) 
 [Likert scale_sure - scale.mp3](https://github.com/user-attachments/files/23125294/Likert.scale_sure.-.scale.mp3)
 
-### Jamie-specific Audio 
+## Jamie-specific Audio 
 
 #### Jamie class president 
 Is Jamie really the class president? 
@@ -27,7 +27,18 @@ Jamie CAN pick lunch monitor
 Jamie CAN'T pick lunch monitor 
 [Jamie can't pick lunch monitor. 2.mp3](https://github.com/user-attachments/files/23125351/Jamie.can.t.pick.lunch.monitor.2.mp3)
 
-### Riley-specific Audio 
+#### Jamie field trip shirt 
+Jamie black shirt 
+[Jamie black shirt.mp3](https://github.com/user-attachments/files/23126364/Jamie.black.shirt.mp3)
+
+Students SHOULD listen to Jamie, black shirt 
+[Should listen to Jamie shirt.mp3](https://github.com/user-attachments/files/23126385/Should.listen.to.Jamie.shirt.mp3)
+
+Students SHOULD NOT listen to Jamie, black shirt 
+[Should not listen to Jamie shirt.mp3](https://github.com/user-attachments/files/23126402/Should.not.listen.to.Jamie.shirt.mp3)
+
+
+## Riley-specific Audio 
 
 #### Riley class president 
 
@@ -46,6 +57,18 @@ Riley lunch monitor
 Riley CAN pick the lunch monitor. 
 [Riley can pick lunch monitor..mp3](https://github.com/user-attachments/files/23125660/Riley.can.pick.lunch.monitor.mp3)
 
+Riley CAN'T pick the lunch monitor. 
+[Jamie black shirt.mp3](https://github.com/user-attachments/files/23126173/Jamie.black.shirt.mp3)
 
-Riley CAN't pick the lunch monitor. 
+
+#### Riley field trip shirt 
+Riley black shirt 
+
+
+Students SHOULD listen to Riley, black shirt 
+[Should listen to Riley shirt.mp3](https://github.com/user-attachments/files/23126475/Should.listen.to.Riley.shirt.mp3)
+
+Students SHOULD NOT listen to Riley, black shirt 
+[Should not listen to Riley shirt.mp3](https://github.com/user-attachments/files/23126480/Should.not.listen.to.Riley.shirt.mp3)
+
 
