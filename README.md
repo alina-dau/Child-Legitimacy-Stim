@@ -3,11 +3,8 @@ This respository houses the child legitimacy DV audio recordings and DV visual s
 
 ### Jamie 
 Is Jamie really the class president? 
+
+
+#### Is Riley really the class president? 
 [Riley really class pres_.mp3](https://github.com/user-attachments/files/23124831/Riley.really.class.pres_.mp3)
 
-
-
-
-
-
-Is Riley really the class president? 
