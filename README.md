@@ -1,19 +1,21 @@
 # Child-Legitimacy-Stim
 This respository houses the child legitimacy DV audio recordings and DV visual stimuli. 
 
+# Audio mp3 
+
 ## All audio
+
 Likert scale (sureness) 
 [Likert scale_sure - scale.mp3](https://github.com/user-attachments/files/23125294/Likert.scale_sure.-.scale.mp3)
 
 Yes or no 
 [Yes or no.mp3](https://github.com/user-attachments/files/23127276/Yes.or.no.mp3)
 
-A little or a lot (like) 
+A little or a lot 
 [A little or a lot.mp3](https://github.com/user-attachments/files/23127282/A.little.or.a.lot.mp3)
 
 Why 
 [Why.mp3](https://github.com/user-attachments/files/23127284/Why.mp3)
-
 
 ## Jamie-specific Audio 
 
@@ -51,15 +53,14 @@ Students SHOULD NOT listen to Jamie, black shirt
 Do you like Jamie? 
 [Do you like Jamie 2.mp3](https://github.com/user-attachments/files/23126721/Do.you.like.Jamie.2.mp3)
 
-
 ## Riley-specific Audio 
 
 ### Riley class president 
-
 Is Riley really the class president? 
 [Riley really class pres_.mp3](https://github.com/user-attachments/files/23124831/Riley.really.class.pres_.mp3)
 
-You said, Riley IS the class president. [Riley is the class president..mp3](https://github.com/user-attachments/files/23125543/Riley.is.the.class.president.mp3)
+You said, Riley IS the class president. 
+[Riley is the class president..mp3](https://github.com/user-attachments/files/23125543/Riley.is.the.class.president.mp3)
 
 You said, Riley IS NOT the class president. 
 [Riley is not the class president..mp3](https://github.com/user-attachments/files/23125572/Riley.is.not.the.class.president.mp3)
@@ -85,7 +86,7 @@ Students SHOULD NOT listen to Riley, black shirt
 [Should not listen to Riley shirt.mp3](https://github.com/user-attachments/files/23126480/Should.not.listen.to.Riley.shirt.mp3)
 
 ### Riley extra 
-
 Do you like Riley? 
 [Do you like Riley 2.mp3](https://github.com/user-attachments/files/23126708/Do.you.like.Riley.2.mp3)
 
+# Visual slides png 
