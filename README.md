@@ -98,34 +98,46 @@ Do you like Riley?
 
 ## Yes/ No 
 No https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/No.png
+
 Yes https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Yes.png
 
 ### Likert - sureness 
 Really not sure https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Really_notsure.png
+
 Little not sure https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Little_notsure.png
+
 Little sure https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Sure.png
+
 Really sure https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Really_sure.png
 
 ### Likeness 
 Like a little https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_little.png
+
 Like a lot https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_lot.png
 
 ## Memory Check 
 Correct answer middle
+
 Legit memory check https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Legit_memcheck.png
+
 Fraud memory check https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Fraud_memcheck.png
+
 Error memory check https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Error_memcheck.png
 
 ## DV Scenes 
 
 ### Jamie 
 Jamie blank with badge https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_badge.png
+
 Jamie lunch monitor https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_lunchmonitor.png
+
 Jamie field trip shirt https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_shirt.png
 
 ### Riley
 Riley blank with badge https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_badge.png
+
 Riley lunch monitor https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_lunchmonitor.png
+
 Riley field trip shirt https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_shirt.png
 
 
