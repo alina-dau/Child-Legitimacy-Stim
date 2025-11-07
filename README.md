@@ -1,6 +1,89 @@
 # Child-Legitimacy-Stim
 This respository houses the child legitimacy DV audio recordings and DV visual stimuli. 
 
+## Memory Check 
+
+Correct answer middle one 
+
+#### Questions 
+
+Png Legit memory check slide
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Legit_memcheck.png
+Mp3 Legit Jamie Question 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Memory%20-%20Jamie%20middle%20(legit).mp3
+Mp3 Legit Riley Question 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Memory%20-%20Riley%20middle%20(legit).mp3
+
+Png Fraud memory check slide
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Fraud_memcheck.png
+Mp3 Fraud Jamie Question 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Memory%20-%20Jamie%20middle%20(fraud).mp3
+Mp3 Fraud Riley Question
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Memory%20-%20Riley%20middle%20(fraud).mp3
+
+Png Error memory check slide 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Error_memcheck.png
+Mp3 Error Jamie Question 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Memory%20-%20Jamie%20middle%20(error).mp3
+Mp3 Error Riley Question 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Memory%20-%20Riley%20middle%20(error).mp3
+
+#### Answers 
+
+##### Correction (if wrong) 
+
+Mp3 Error correction (all) 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correction%20-%20error%20(all).mp3
+
+Jamie correction 
+Mp3 Legit correction 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correction%20-%20Jamie%20legit.mp3
+Mp3 Fraud correction 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correction%20-%20Jamie%20fraud.mp3
+
+Riley correction 
+Mp3 Legit correction 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correction%20-%20Riley%20(legit).mp3
+Mp3 Fruad correction 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correct%20-%20Riley%20(fraud).mp3
+
+##### Correct (if right) 
+
+Mp3 Error correct (all) 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correct%20-%20error%20(all).mp3
+
+Jamie correct answers 
+Mp3 Fraud correct 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correct%20-%20Jamie%20fraud.mp3
+Mp3 Legit correct 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correct%20-%20Jamie%20(legit).mp3
+
+Riley correct answers 
+Mp3 Fraud correct 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correct%20-%20Riley%20(fraud).mp3
+Mp3 Legit correct 
+https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Correct%20-%20Riley%20(correct).mp3
+
+
+## DV (Other Questions) Scenes Slides 
+
+### Jamie 
+Jamie blank with badge https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_badge.png
+
+Jamie lunch monitor https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_lunchmonitor.png
+
+Jamie field trip shirt https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_shirt.png
+
+### Riley
+Riley blank with badge https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_badge.png
+
+Riley lunch monitor https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_lunchmonitor.png
+
+Riley field trip shirt https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_shirt.png
+
+
+
+
 # Audio mp3 
 
 ## All audio
@@ -114,30 +197,3 @@ Really sure https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Really_
 Like a little https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_little.png
 
 Like a lot https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_lot.png
-
-## Memory Check 
-Correct answer middle
-
-Legit memory check https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Legit_memcheck.png
-
-Fraud memory check https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Fraud_memcheck.png
-
-Error memory check https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Error_memcheck.png
-
-## DV Scenes 
-
-### Jamie 
-Jamie blank with badge https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_badge.png
-
-Jamie lunch monitor https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_lunchmonitor.png
-
-Jamie field trip shirt https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_shirt.png
-
-### Riley
-Riley blank with badge https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_badge.png
-
-Riley lunch monitor https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_lunchmonitor.png
-
-Riley field trip shirt https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_shirt.png
-
-
