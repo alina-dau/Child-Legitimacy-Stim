@@ -129,10 +129,8 @@ Jamie lunch monitor
 [Jamie lunch monitor.mp3](https://github.com/user-attachments/files/23125309/Jamie.lunch.monitor.mp3)
 
 Jamie CAN pick lunch monitor 
-[Jamie can pick lunch monitor..mp3](https://github.com/user-attachments/files/23125340/Jamie.can.pick.lunch.monitor.mp3)
 
 Jamie CAN'T pick lunch monitor 
-[Jamie can't pick lunch monitor. 2.mp3](https://github.com/user-attachments/files/23125351/Jamie.can.t.pick.lunch.monitor.2.mp3)
 
 ### Jamie field trip shirt 
 Jamie black shirt 
@@ -165,10 +163,9 @@ Riley lunch monitor
 [Riley lunch monitor.mp3](https://github.com/user-attachments/files/23125321/Riley.lunch.monitor.mp3)
 
 Riley CAN pick the lunch monitor. 
-[Riley can pick lunch monitor..mp3](https://github.com/user-attachments/files/23125660/Riley.can.pick.lunch.monitor.mp3)
 
 Riley CAN'T pick the lunch monitor. 
-[Jamie black shirt.mp3](https://github.com/user-attachments/files/23126173/Jamie.black.shirt.mp3)
+
 
 ### Riley field trip shirt 
 Riley black shirt - should the students have to listen 
