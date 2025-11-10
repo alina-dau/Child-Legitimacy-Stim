@@ -109,8 +109,8 @@ A little or a lot
 Why 
 [Why.mp3](https://github.com/user-attachments/files/23127284/Why.mp3)
 
-Memory Check 
-
+Click to answer instructions
+[Click answer.mp3](https://github.com/user-attachments/files/23460076/Click.answer.mp3)
 
 ## Jamie-specific Audio 
 
@@ -173,7 +173,7 @@ Riley CAN'T pick the lunch monitor.
 
 ### Riley field trip shirt 
 Riley black shirt - should the students have to listen 
-[Riley black shirt.mp3](https://github.com/user-attachments/files/23127101/Riley.black.shirt.mp3)
+[Riley black shirt.mp3](https://github.com/user-attachments/files/23460053/Riley.black.shirt.mp3)
 
 Students SHOULD listen to Riley, black shirt 
 [Should listen to Riley shirt.mp3](https://github.com/user-attachments/files/23126475/Should.listen.to.Riley.shirt.mp3)
@@ -187,9 +187,9 @@ Do you like Riley?
 
 # Visual slides png 
 
-## Scales 
+## Scales and  
 
-## Yes/ No 
+### Yes/ No 
 No https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/No.png
 
 Yes https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Yes.png
