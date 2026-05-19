@@ -207,3 +207,16 @@ Really sure https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Really_
 Like a little https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_little.png
 
 Like a lot https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_lot.png
+
+
+
+## Study 2 
+
+Competent 
+
+Jamie_comp: 
+Jamie_incomp: 
+
+Riley_comp: 
+Riley_incomp: 
+
