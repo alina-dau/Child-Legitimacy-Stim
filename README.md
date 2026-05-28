@@ -212,7 +212,9 @@ Like a lot https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_lot
 
 ## Study 2 
 
-**Competent: **
+
+
+##### Competent: 
 
 Jamie_comp: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_competent.png
 
@@ -222,7 +224,9 @@ Riley_comp: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_c
 
 Riley_incomp: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_incompetent.png
 
-**Standard actions: **
+
+
+##### Standard actions: 
 
 Jamie_math: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_math.png
 
