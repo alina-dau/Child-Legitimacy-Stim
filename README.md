@@ -224,13 +224,11 @@ Riley_incomp: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley
 
 **Standard actions: **
 
-Jamie_math: 
+Jamie_math: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_math.png
 
-Jamie_toy: 
+Jamie_toy: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_toy.png
 
-Riley_math: 
+Riley_math: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_math.png
 
-Riley_toy:
-
-Riley_incomp: 
+Riley_toy:https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_toy.png
 
