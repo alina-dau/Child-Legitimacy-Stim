@@ -212,6 +212,140 @@ Like a lot https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_lot
 
 ## Study 2 
 
+1. Intro video
+   
+2. DV questions.
+
+## Jamie-specific Audio 
+
+### Jamie class president 
+Is Jamie really the class president? 
+[Jamie really class pres_.mp3](https://github.com/user-attachments/files/23125236/Jamie.really.class.pres_.mp3)
+
+You said, Jamie IS the class president. 
+[Jamie is the class president 1.mp3](https://github.com/user-attachments/files/23125380/Jamie.is.the.class.president.1.mp3)
+
+You said, Jamie IS NOT the class president.
+[Jamie is not the class president..mp3](https://github.com/user-attachments/files/23125397/Jamie.is.not.the.class.president.mp3)
+
+### Jamie lunch monitor 
+Jamie lunch monitor 
+[Jamie lunch monitor.mp3](https://github.com/user-attachments/files/23125309/Jamie.lunch.monitor.mp3)
+
+Jamie CAN pick lunch monitor 
+[Jamie can pick lunch monitor..mp3](https://github.com/user-attachments/files/23425461/Jamie.can.pick.lunch.monitor.mp3)
+
+Jamie CAN'T pick lunch monitor 
+[Jamie can_t pick lunch monitor..mp3](https://github.com/user-attachments/files/23425463/Jamie.can_t.pick.lunch.monitor.mp3)
+
+
+### Jamie math
+
+Jamie_math: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_math.png
+
+Jamie_math_audio: [Jamie_math.mp3](https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_math.mp3)
+
+### Jamie toy
+
+Jamie_toy: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_toy.png
+
+Jamie_toy_audio: [Jamie_toy.mp3](https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie%20toy_intro.mp3)
+
+
+### Jamie field trip shirt 
+Jamie black shirt 
+[Jamie black shirt.mp3](https://github.com/user-attachments/files/23126364/Jamie.black.shirt.mp3)
+
+Students SHOULD listen to Jamie, black shirt 
+[Should listen to Jamie shirt.mp3](https://github.com/user-attachments/files/23126385/Should.listen.to.Jamie.shirt.mp3)
+
+Students SHOULD NOT listen to Jamie, black shirt 
+[Should not listen to Jamie shirt.mp3](https://github.com/user-attachments/files/23126402/Should.not.listen.to.Jamie.shirt.mp3)
+
+### Jamie extra 
+Do you like Jamie? 
+[Do you like Jamie 2.mp3](https://github.com/user-attachments/files/23126721/Do.you.like.Jamie.2.mp3)
+
+
+
+## Riley-specific Audio 
+
+### Riley class president 
+Is Riley really the class president? 
+[Riley really class pres_.mp3](https://github.com/user-attachments/files/23124831/Riley.really.class.pres_.mp3)
+
+You said, Riley IS the class president. 
+[Riley is the class president..mp3](https://github.com/user-attachments/files/23125543/Riley.is.the.class.president.mp3)
+
+You said, Riley IS NOT the class president. 
+[Riley is not the class president..mp3](https://github.com/user-attachments/files/23125572/Riley.is.not.the.class.president.mp3)
+
+### Riley lunch monitor 
+Riley lunch monitor
+[Riley lunch monitor.mp3](https://github.com/user-attachments/files/23125321/Riley.lunch.monitor.mp3)
+
+Riley CAN pick the lunch monitor. 
+[Riley can pick lunch monitor..mp3](https://github.com/user-attachments/files/23425465/Riley.can.pick.lunch.monitor.mp3)
+
+Riley CAN'T pick the lunch monitor. 
+[Riley can_t pick lunch monitor..mp3](https://github.com/user-attachments/files/23425466/Riley.can_t.pick.lunch.monitor.mp3)
+
+### Riley field trip shirt 
+Riley black shirt - should the students have to listen 
+[Riley black shirt.mp3](https://github.com/user-attachments/files/23460053/Riley.black.shirt.mp3)
+
+Students SHOULD listen to Riley, black shirt 
+[Should listen to Riley shirt.mp3](https://github.com/user-attachments/files/23126475/Should.listen.to.Riley.shirt.mp3)
+
+Students SHOULD NOT listen to Riley, black shirt 
+[Should not listen to Riley shirt.mp3](https://github.com/user-attachments/files/23126480/Should.not.listen.to.Riley.shirt.mp3)
+
+### Riley math 
+
+Riley_math: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_math.png
+
+Riley_math_audio: [Riley_math.mp3](https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_math.mp3)
+
+### Riley toy 
+
+Riley_toy: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_toy.png
+
+Riley_toy_audio: [Riley_toy.mp3](https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley%20toy_intro.mp3)
+
+### Riley extra 
+Do you like Riley? 
+[Do you like Riley 2.mp3](https://github.com/user-attachments/files/23126708/Do.you.like.Riley.2.mp3)
+
+
+# Scales and DV choices 
+
+### Yes/ No 
+No https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/No.png
+
+Yes https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Yes.png
+
+Yes or no 
+[Yes or no.mp3](https://github.com/user-attachments/files/23127276/Yes.or.no.mp3)
+
+
+### Likeness 
+Like a little https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_little.png
+
+Like a lot https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Like_lot.png
+
+A little or a lot 
+[A little or a lot.mp3](https://github.com/user-attachments/files/23127282/A.little.or.a.lot.mp3)
+
+
+
+
+
+
+
+
+
+Ignore 
+
 
 
 ##### Competent: 
@@ -225,14 +359,4 @@ Riley_comp: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_c
 Riley_incomp: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_incompetent.png
 
 
-
-##### Standard actions: 
-
-Jamie_math: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_math.png
-
-Jamie_toy: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_toy.png
-
-Riley_math: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_math.png
-
-Riley_toy:https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_toy.png 
 
