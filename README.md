@@ -234,5 +234,5 @@ Jamie_toy: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Jamie_to
 
 Riley_math: https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_math.png
 
-Riley_toy:https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_toy.png
+Riley_toy:https://github.com/alina-dau/Child-Legitimacy-Stim/blob/main/Riley_toy.png 
 
